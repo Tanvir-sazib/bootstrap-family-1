@@ -122,6 +122,34 @@ h2{
     width: 100%;
 }
 
+#cta{
+    background-color: #ff4c68 ;
+    text-align: center;
+    padding-bottom: 7%;
+}
+#cta h3{
+    color: #fff;
+    font-size: 35px;
+    padding: 5% 15%;
+    font-weight:800;
+
+}
+.download-button-cta{
+    margin: 0 1%;
+}
+#footer{
+    text-align: center;
+    padding:3% 7%;
+}
+.social-icons i{
+    margin:5px;
+    font-size: 1.5rem;
+    color: black;
+    transition: 0.3s;
+}
+.social-icons i:hover{
+    color:#ff4c68 ;
+}
 @media (max-width: 1078px){
 
 #title{
