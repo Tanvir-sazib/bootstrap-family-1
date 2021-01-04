@@ -99,3 +99,18 @@ h2{
     padding: 0 15px;
 
 }
+#pricing{
+    text-align: center;
+    margin-top: 7%;
+}
+#pricing h2{
+    color: #000;
+}
+.price-box{
+    text-align: center;
+    padding: 3% 2%;
+    
+}
+.btn-block{
+    width: 100%;
+}
